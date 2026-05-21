@@ -6,7 +6,7 @@ External Image
 
 GALA7V-1 is a fully functional, browser-based polyphonic analog synthesizer. It isn't just a "music player"—it is a sophisticated hardware simulation that recreates the tactile experience of a 2026-era boutique analog synth, complete with wood-grain chassis, CRT oscilloscopes, and sample-accurate sequencing.
 
-**[🚀 Try the Live Demo]** <!-- Link your GitHub Pages here -->
+**[🚀 Try the Live Demo]** <!-- [Link your GitHub Pages here ](https://2ndchances520.github.io/Galas-Digital-piano-/)-->
 
 🕹️ The Interface
 The GALA7V-1 features a high-fidelity UI designed to mimic vintage studio gear:
